@@ -52,3 +52,22 @@ Responsibility is very flexible.
 
 ##What are the advantages?
 Monolith - simple + familiar.
+Have simplicity
+
+Microservice - partial deployment
+Example: Monolith insurance company - cannot just update auto insurance!
+
+Availability - be handle to handle failure effectively
+
+Monolith is more consistent
+
+Monolith - Inter-module refactoring - Good modularity
+
+Microservice - perserve modularity - don't share mutable state.
+Also can go with multiple platforms
+
+Need rapid provisioning - works well with the cloud
+Basic monitoring - something becomes important.
+
+Rapid Application deployment
+Devops culture
